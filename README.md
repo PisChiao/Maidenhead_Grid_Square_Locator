@@ -8,7 +8,7 @@ The Maidenhead grid square locator calculation commonly used in amateur radio.
 
 修改代码最后一行：
 
-```
+```python
 print(getHeadPos(179.9999,89.9999))
 ```
 
