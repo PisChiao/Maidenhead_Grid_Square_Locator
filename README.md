@@ -6,10 +6,8 @@ The Maidenhead grid square locator calculation commonly used in amateur radio.
 
 ## 快速使用
 
-修改代码最后一行：
+- 需要有python 3.X版本的运行环境，没有环境的请出门左转安装Anaconda。链接地址：[Anaconda清华大学镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
 
-```python
-print(getHeadPos(179.9999,89.9999))
-```
+- 安装Anaconda之后，在开始菜单中找到Anaconda -> Anaconda Prompt
 
-括号里的两个数字分辨是经度和纬度，使用小数表示。
+- 在命令行中输入 python + 空格 + runMe.py的地址（例如：python D:\Maidenhead_Grid_Square_Locator\runMe.py）
